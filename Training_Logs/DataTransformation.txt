@@ -1,0 +1,398 @@
+2021-09-10/19:14:10		checkforTransformation Started!!!
+2021-09-10/19:14:10		Missing Value Search Started
+2021-09-10/19:14:10		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-10/19:14:10		Missing Values Search Completed
+2021-09-10/19:14:10		impute_infs Started!!!
+2021-09-10/19:14:10		impute_infs Completed!!!
+2021-09-10/19:14:10		Missing Value Search Started
+2021-09-10/19:14:10		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-10/19:14:10		Missing Values Search Completed
+2021-09-10/19:14:10		impute_missingValues Started!!!
+2021-09-10/19:14:10		impute_missingValues Completed!!!
+2021-09-10/19:14:10		calculate_loglikelihood Started!!!
+2021-09-10/19:14:13		calculate_loglikelihood Completed!!!
+2021-09-10/19:14:13		checkforTransformation Completed!!!
+2021-09-10/19:14:17		transformVariables Started!!!
+2021-09-10/19:14:17		transformVariables Completed!!!
+2021-09-13/16:38:11		checkforTransformation Started!!!
+2021-09-13/16:38:11		Missing Value Search Started
+2021-09-13/16:38:11		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:38:11		Missing Values Search Completed
+2021-09-13/16:38:11		impute_infs Started!!!
+2021-09-13/16:38:11		impute_infs Completed!!!
+2021-09-13/16:38:11		Missing Value Search Started
+2021-09-13/16:38:11		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:38:11		Missing Values Search Completed
+2021-09-13/16:38:11		impute_missingValues Started!!!
+2021-09-13/16:38:11		impute_missingValues Completed!!!
+2021-09-13/16:38:11		calculate_loglikelihood Started!!!
+2021-09-13/16:38:13		calculate_loglikelihood Completed!!!
+2021-09-13/16:38:13		checkforTransformation Completed!!!
+2021-09-13/16:38:14		transformVariables Started!!!
+2021-09-13/16:38:14		transformVariables Completed!!!
+2021-09-13/16:42:03		checkforTransformation Started!!!
+2021-09-13/16:42:03		Missing Value Search Started
+2021-09-13/16:42:03		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:42:03		Missing Values Search Completed
+2021-09-13/16:42:03		impute_infs Started!!!
+2021-09-13/16:42:03		impute_infs Completed!!!
+2021-09-13/16:42:03		Missing Value Search Started
+2021-09-13/16:42:03		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:42:03		Missing Values Search Completed
+2021-09-13/16:42:03		impute_missingValues Started!!!
+2021-09-13/16:42:03		impute_missingValues Completed!!!
+2021-09-13/16:42:03		calculate_loglikelihood Started!!!
+2021-09-13/16:42:04		calculate_loglikelihood Completed!!!
+2021-09-13/16:42:04		checkforTransformation Completed!!!
+2021-09-13/16:42:06		transformVariables Started!!!
+2021-09-13/16:42:06		transformVariables Completed!!!
+2021-09-13/16:50:35		checkforTransformation Started!!!
+2021-09-13/16:50:35		Missing Value Search Started
+2021-09-13/16:50:35		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:50:35		Missing Values Search Completed
+2021-09-13/16:50:35		impute_infs Started!!!
+2021-09-13/16:50:35		impute_infs Completed!!!
+2021-09-13/16:50:35		Missing Value Search Started
+2021-09-13/16:50:35		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:50:35		Missing Values Search Completed
+2021-09-13/16:50:35		impute_missingValues Started!!!
+2021-09-13/16:50:35		impute_missingValues Completed!!!
+2021-09-13/16:50:35		calculate_loglikelihood Started!!!
+2021-09-13/16:50:36		calculate_loglikelihood Completed!!!
+2021-09-13/16:50:36		checkforTransformation Completed!!!
+2021-09-13/16:50:37		transformVariables Started!!!
+2021-09-13/16:50:37		transformVariables Completed!!!
+2021-09-13/16:55:16		checkforTransformation Started!!!
+2021-09-13/16:55:16		Missing Value Search Started
+2021-09-13/16:55:16		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:55:16		Missing Values Search Completed
+2021-09-13/16:55:16		impute_infs Started!!!
+2021-09-13/16:55:16		impute_infs Completed!!!
+2021-09-13/16:55:16		Missing Value Search Started
+2021-09-13/16:55:16		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:55:16		Missing Values Search Completed
+2021-09-13/16:55:16		impute_missingValues Started!!!
+2021-09-13/16:55:16		impute_missingValues Completed!!!
+2021-09-13/16:55:16		calculate_loglikelihood Started!!!
+2021-09-13/16:55:17		calculate_loglikelihood Completed!!!
+2021-09-13/16:55:17		checkforTransformation Completed!!!
+2021-09-13/16:55:18		transformVariables Started!!!
+2021-09-13/16:55:18		transformVariables Completed!!!
+2021-09-13/16:56:57		checkforTransformation Started!!!
+2021-09-13/16:56:57		Missing Value Search Started
+2021-09-13/16:56:57		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:56:57		Missing Values Search Completed
+2021-09-13/16:56:57		impute_infs Started!!!
+2021-09-13/16:56:57		impute_infs Completed!!!
+2021-09-13/16:56:57		Missing Value Search Started
+2021-09-13/16:56:57		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:56:57		Missing Values Search Completed
+2021-09-13/16:56:57		impute_missingValues Started!!!
+2021-09-13/16:56:57		impute_missingValues Completed!!!
+2021-09-13/16:56:57		calculate_loglikelihood Started!!!
+2021-09-13/16:56:58		calculate_loglikelihood Completed!!!
+2021-09-13/16:56:58		checkforTransformation Completed!!!
+2021-09-13/16:56:59		transformVariables Started!!!
+2021-09-13/16:56:59		transformVariables Completed!!!
+2021-09-13/16:58:14		checkforTransformation Started!!!
+2021-09-13/16:58:14		Missing Value Search Started
+2021-09-13/16:58:14		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:58:14		Missing Values Search Completed
+2021-09-13/16:58:14		impute_infs Started!!!
+2021-09-13/16:58:14		impute_infs Completed!!!
+2021-09-13/16:58:14		Missing Value Search Started
+2021-09-13/16:58:14		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/16:58:14		Missing Values Search Completed
+2021-09-13/16:58:14		impute_missingValues Started!!!
+2021-09-13/16:58:14		impute_missingValues Completed!!!
+2021-09-13/16:58:14		calculate_loglikelihood Started!!!
+2021-09-13/16:58:15		calculate_loglikelihood Completed!!!
+2021-09-13/16:58:15		checkforTransformation Completed!!!
+2021-09-13/16:58:16		transformVariables Started!!!
+2021-09-13/16:58:16		transformVariables Completed!!!
+2021-09-13/17:11:56		checkforTransformation Started!!!
+2021-09-13/17:11:56		Missing Value Search Started
+2021-09-13/17:11:56		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/17:11:56		Missing Values Search Completed
+2021-09-13/17:11:56		impute_infs Started!!!
+2021-09-13/17:11:56		impute_infs Completed!!!
+2021-09-13/17:11:56		Missing Value Search Started
+2021-09-13/17:11:56		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-13/17:11:56		Missing Values Search Completed
+2021-09-13/17:11:56		impute_missingValues Started!!!
+2021-09-13/17:11:56		impute_missingValues Completed!!!
+2021-09-13/17:11:56		calculate_loglikelihood Started!!!
+2021-09-13/17:11:57		calculate_loglikelihood Completed!!!
+2021-09-13/17:11:57		checkforTransformation Completed!!!
+2021-09-13/17:11:58		transformVariables Started!!!
+2021-09-13/17:11:58		transformVariables Completed!!!
+2021-09-14/13:00:36		checkforTransformation Started!!!
+2021-09-14/13:00:36		Missing Value Search Started
+2021-09-14/13:00:36		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-14/13:00:36		Missing Values Search Completed
+2021-09-14/13:00:36		impute_infs Started!!!
+2021-09-14/13:00:36		impute_infs Completed!!!
+2021-09-14/13:00:36		Missing Value Search Started
+2021-09-14/13:00:36		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-14/13:00:36		Missing Values Search Completed
+2021-09-14/13:00:36		impute_missingValues Started!!!
+2021-09-14/13:00:36		impute_missingValues Completed!!!
+2021-09-14/13:00:36		calculate_loglikelihood Started!!!
+2021-09-14/13:00:37		calculate_loglikelihood Completed!!!
+2021-09-14/13:00:37		checkforTransformation Completed!!!
+2021-09-14/13:00:39		transformVariables Started!!!
+2021-09-14/13:00:39		transformVariables Completed!!!
+2021-09-14/23:14:40		checkforTransformation Started!!!
+2021-09-14/23:14:40		Missing Value Search Started
+2021-09-14/23:14:40		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-14/23:14:40		Missing Values Search Completed
+2021-09-14/23:14:40		impute_infs Started!!!
+2021-09-14/23:14:40		impute_infs Completed!!!
+2021-09-14/23:14:40		Missing Value Search Started
+2021-09-14/23:14:40		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-14/23:14:40		Missing Values Search Completed
+2021-09-14/23:14:40		impute_missingValues Started!!!
+2021-09-14/23:14:40		impute_missingValues Completed!!!
+2021-09-14/23:14:40		calculate_loglikelihood Started!!!
+2021-09-14/23:14:41		calculate_loglikelihood Completed!!!
+2021-09-14/23:14:41		checkforTransformation Completed!!!
+2021-09-14/23:14:43		transformVariables Started!!!
+2021-09-14/23:14:43		transformVariables Completed!!!
+2021-09-18/10:29:58		checkforTransformation Started!!!
+2021-09-18/10:29:58		Missing Value Search Started
+2021-09-18/10:29:58		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/10:29:58		Missing Values Search Completed
+2021-09-18/10:29:58		impute_infs Started!!!
+2021-09-18/10:29:58		impute_infs Completed!!!
+2021-09-18/10:29:58		Missing Value Search Started
+2021-09-18/10:29:58		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/10:29:58		Missing Values Search Completed
+2021-09-18/10:29:58		impute_missingValues Started!!!
+2021-09-18/10:29:58		impute_missingValues Completed!!!
+2021-09-18/10:29:58		calculate_loglikelihood Started!!!
+2021-09-18/10:29:59		calculate_loglikelihood Completed!!!
+2021-09-18/10:29:59		checkforTransformation Completed!!!
+2021-09-18/10:30:01		transformVariables Started!!!
+2021-09-18/10:30:01		transformVariables Completed!!!
+2021-09-18/13:12:24		checkforTransformation Started!!!
+2021-09-18/13:12:24		Missing Value Search Started
+2021-09-18/13:12:24		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/13:12:24		Missing Values Search Completed
+2021-09-18/13:12:24		impute_infs Started!!!
+2021-09-18/13:12:24		impute_infs Completed!!!
+2021-09-18/13:12:24		Missing Value Search Started
+2021-09-18/13:12:24		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/13:12:24		Missing Values Search Completed
+2021-09-18/13:12:24		impute_missingValues Started!!!
+2021-09-18/13:12:24		impute_missingValues Completed!!!
+2021-09-18/13:12:24		calculate_loglikelihood Started!!!
+2021-09-18/13:12:25		calculate_loglikelihood Completed!!!
+2021-09-18/13:12:25		checkforTransformation Completed!!!
+2021-09-18/13:12:26		transformVariables Started!!!
+2021-09-18/13:12:26		transformVariables Completed!!!
+2021-09-18/13:15:25		checkforTransformation Started!!!
+2021-09-18/13:15:25		Missing Value Search Started
+2021-09-18/13:15:25		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/13:15:25		Missing Values Search Completed
+2021-09-18/13:15:25		impute_infs Started!!!
+2021-09-18/13:15:25		impute_infs Completed!!!
+2021-09-18/13:15:25		Missing Value Search Started
+2021-09-18/13:15:25		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/13:15:25		Missing Values Search Completed
+2021-09-18/13:15:25		impute_missingValues Started!!!
+2021-09-18/13:15:25		impute_missingValues Completed!!!
+2021-09-18/13:15:25		calculate_loglikelihood Started!!!
+2021-09-18/13:15:26		calculate_loglikelihood Completed!!!
+2021-09-18/13:15:26		checkforTransformation Completed!!!
+2021-09-18/13:15:27		transformVariables Started!!!
+2021-09-18/13:15:27		transformVariables Completed!!!
+2021-09-18/19:55:38		checkforTransformation Started!!!
+2021-09-18/19:55:38		Missing Value Search Started
+2021-09-18/19:55:38		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/19:55:38		Missing Values Search Completed
+2021-09-18/19:55:38		impute_infs Started!!!
+2021-09-18/19:55:38		impute_infs Completed!!!
+2021-09-18/19:55:38		Missing Value Search Started
+2021-09-18/19:55:38		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-18/19:55:38		Missing Values Search Completed
+2021-09-18/19:55:38		impute_missingValues Started!!!
+2021-09-18/19:55:38		impute_missingValues Completed!!!
+2021-09-18/19:55:38		calculate_loglikelihood Started!!!
+2021-09-18/19:55:40		calculate_loglikelihood Completed!!!
+2021-09-18/19:55:40		checkforTransformation Completed!!!
+2021-09-18/19:55:42		transformVariables Started!!!
+2021-09-18/19:55:42		transformVariables Completed!!!
+2021-09-19/12:07:16		checkforTransformation Started!!!
+2021-09-19/12:07:16		Missing Value Search Started
+2021-09-19/12:07:16		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/12:07:16		Missing Values Search Completed
+2021-09-19/12:07:16		impute_infs Started!!!
+2021-09-19/12:07:16		impute_infs Completed!!!
+2021-09-19/12:07:16		Missing Value Search Started
+2021-09-19/12:07:16		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/12:07:16		Missing Values Search Completed
+2021-09-19/12:07:16		impute_missingValues Started!!!
+2021-09-19/12:07:16		impute_missingValues Completed!!!
+2021-09-19/12:07:16		calculate_loglikelihood Started!!!
+2021-09-19/12:07:17		calculate_loglikelihood Completed!!!
+2021-09-19/12:07:17		checkforTransformation Completed!!!
+2021-09-19/12:07:19		transformVariables Started!!!
+2021-09-19/12:07:19		transformVariables Completed!!!
+2021-09-19/14:50:32		checkforTransformation Started!!!
+2021-09-19/14:50:32		Missing Value Search Started
+2021-09-19/14:50:32		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/14:50:32		Missing Values Search Completed
+2021-09-19/14:50:32		impute_infs Started!!!
+2021-09-19/14:50:32		impute_infs Completed!!!
+2021-09-19/14:50:32		Missing Value Search Started
+2021-09-19/14:50:32		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/14:50:32		Missing Values Search Completed
+2021-09-19/14:50:32		impute_missingValues Started!!!
+2021-09-19/14:50:32		impute_missingValues Completed!!!
+2021-09-19/14:50:32		calculate_loglikelihood Started!!!
+2021-09-19/14:50:33		calculate_loglikelihood Completed!!!
+2021-09-19/14:50:33		checkforTransformation Completed!!!
+2021-09-19/14:50:34		transformVariables Started!!!
+2021-09-19/14:50:34		transformVariables Completed!!!
+2021-09-19/21:47:08		checkforTransformation Started!!!
+2021-09-19/21:47:08		Missing Value Search Started
+2021-09-19/21:47:08		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/21:47:08		Missing Values Search Completed
+2021-09-19/21:47:08		impute_infs Started!!!
+2021-09-19/21:47:08		impute_infs Completed!!!
+2021-09-19/21:47:08		Missing Value Search Started
+2021-09-19/21:47:08		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/21:47:08		Missing Values Search Completed
+2021-09-19/21:47:08		impute_missingValues Started!!!
+2021-09-19/21:47:08		impute_missingValues Completed!!!
+2021-09-19/21:47:08		calculate_loglikelihood Started!!!
+2021-09-19/21:47:09		calculate_loglikelihood Completed!!!
+2021-09-19/21:47:09		checkforTransformation Completed!!!
+2021-09-19/21:47:11		transformVariables Started!!!
+2021-09-19/21:47:11		transformVariables Completed!!!
+2021-09-19/23:10:19		checkforTransformation Started!!!
+2021-09-19/23:10:19		Missing Value Search Started
+2021-09-19/23:10:19		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/23:10:19		Missing Values Search Completed
+2021-09-19/23:10:19		impute_infs Started!!!
+2021-09-19/23:10:19		impute_infs Completed!!!
+2021-09-19/23:10:19		Missing Value Search Started
+2021-09-19/23:10:19		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-19/23:10:19		Missing Values Search Completed
+2021-09-19/23:10:19		impute_missingValues Started!!!
+2021-09-19/23:10:19		impute_missingValues Completed!!!
+2021-09-19/23:10:19		calculate_loglikelihood Started!!!
+2021-09-19/23:10:21		calculate_loglikelihood Completed!!!
+2021-09-19/23:10:21		checkforTransformation Completed!!!
+2021-09-19/23:10:22		transformVariables Started!!!
+2021-09-19/23:10:22		transformVariables Completed!!!
+2021-09-20/00:06:44		checkforTransformation Started!!!
+2021-09-20/00:06:44		Missing Value Search Started
+2021-09-20/00:06:44		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/00:06:44		Missing Values Search Completed
+2021-09-20/00:06:44		impute_infs Started!!!
+2021-09-20/00:06:44		impute_infs Completed!!!
+2021-09-20/00:06:44		Missing Value Search Started
+2021-09-20/00:06:44		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/00:06:44		Missing Values Search Completed
+2021-09-20/00:06:44		impute_missingValues Started!!!
+2021-09-20/00:06:44		impute_missingValues Completed!!!
+2021-09-20/00:06:44		calculate_loglikelihood Started!!!
+2021-09-20/00:06:45		calculate_loglikelihood Completed!!!
+2021-09-20/00:06:45		checkforTransformation Completed!!!
+2021-09-20/00:06:47		transformVariables Started!!!
+2021-09-20/00:06:47		transformVariables Completed!!!
+2021-09-20/10:06:33		checkforTransformation Started!!!
+2021-09-20/10:06:33		Missing Value Search Started
+2021-09-20/10:06:33		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/10:06:33		Missing Values Search Completed
+2021-09-20/10:06:33		impute_infs Started!!!
+2021-09-20/10:06:33		impute_infs Completed!!!
+2021-09-20/10:06:33		Missing Value Search Started
+2021-09-20/10:06:33		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/10:06:33		Missing Values Search Completed
+2021-09-20/10:06:33		impute_missingValues Started!!!
+2021-09-20/10:06:33		impute_missingValues Completed!!!
+2021-09-20/10:06:33		calculate_loglikelihood Started!!!
+2021-09-20/10:06:34		calculate_loglikelihood Completed!!!
+2021-09-20/10:06:34		checkforTransformation Completed!!!
+2021-09-20/10:06:36		transformVariables Started!!!
+2021-09-20/10:06:36		transformVariables Completed!!!
+2021-09-20/20:06:33		checkforTransformation Started!!!
+2021-09-20/20:06:33		Missing Value Search Started
+2021-09-20/20:06:33		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:06:33		Missing Values Search Completed
+2021-09-20/20:06:33		impute_infs Started!!!
+2021-09-20/20:06:33		impute_infs Completed!!!
+2021-09-20/20:06:33		Missing Value Search Started
+2021-09-20/20:06:33		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:06:33		Missing Values Search Completed
+2021-09-20/20:06:33		impute_missingValues Started!!!
+2021-09-20/20:06:33		impute_missingValues Completed!!!
+2021-09-20/20:06:33		calculate_loglikelihood Started!!!
+2021-09-20/20:06:34		calculate_loglikelihood Completed!!!
+2021-09-20/20:06:34		checkforTransformation Completed!!!
+2021-09-20/20:06:35		transformVariables Started!!!
+2021-09-20/20:06:35		transformVariables Completed!!!
+2021-09-20/20:46:14		checkforTransformation Started!!!
+2021-09-20/20:46:15		Missing Value Search Started
+2021-09-20/20:46:15		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:46:15		Missing Values Search Completed
+2021-09-20/20:46:15		impute_infs Started!!!
+2021-09-20/20:46:15		impute_infs Completed!!!
+2021-09-20/20:46:15		Missing Value Search Started
+2021-09-20/20:46:15		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:46:15		Missing Values Search Completed
+2021-09-20/20:46:15		impute_missingValues Started!!!
+2021-09-20/20:46:15		impute_missingValues Completed!!!
+2021-09-20/20:46:15		calculate_loglikelihood Started!!!
+2021-09-20/20:46:16		calculate_loglikelihood Completed!!!
+2021-09-20/20:46:16		checkforTransformation Completed!!!
+2021-09-20/20:46:17		transformVariables Started!!!
+2021-09-20/20:46:17		transformVariables Completed!!!
+2021-09-20/20:50:13		checkforTransformation Started!!!
+2021-09-20/20:50:13		Missing Value Search Started
+2021-09-20/20:50:13		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:50:13		Missing Values Search Completed
+2021-09-20/20:50:13		impute_infs Started!!!
+2021-09-20/20:50:13		impute_infs Completed!!!
+2021-09-20/20:50:13		Missing Value Search Started
+2021-09-20/20:50:13		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:50:13		Missing Values Search Completed
+2021-09-20/20:50:13		impute_missingValues Started!!!
+2021-09-20/20:50:13		impute_missingValues Completed!!!
+2021-09-20/20:50:13		calculate_loglikelihood Started!!!
+2021-09-20/20:50:14		calculate_loglikelihood Completed!!!
+2021-09-20/20:50:14		checkforTransformation Completed!!!
+2021-09-20/20:50:15		transformVariables Started!!!
+2021-09-20/20:50:15		transformVariables Completed!!!
+2021-09-20/20:59:01		checkforTransformation Started!!!
+2021-09-20/20:59:02		Missing Value Search Started
+2021-09-20/20:59:02		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:59:02		Missing Values Search Completed
+2021-09-20/20:59:02		impute_infs Started!!!
+2021-09-20/20:59:02		impute_infs Completed!!!
+2021-09-20/20:59:02		Missing Value Search Started
+2021-09-20/20:59:02		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:59:02		Missing Values Search Completed
+2021-09-20/20:59:02		impute_missingValues Started!!!
+2021-09-20/20:59:02		impute_missingValues Completed!!!
+2021-09-20/20:59:02		calculate_loglikelihood Started!!!
+2021-09-20/20:59:03		calculate_loglikelihood Completed!!!
+2021-09-20/20:59:03		checkforTransformation Completed!!!
+2021-09-20/20:59:28		checkforTransformation Started!!!
+2021-09-20/20:59:28		Missing Value Search Started
+2021-09-20/20:59:28		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:59:28		Missing Values Search Completed
+2021-09-20/20:59:28		impute_infs Started!!!
+2021-09-20/20:59:28		impute_infs Completed!!!
+2021-09-20/20:59:28		Missing Value Search Started
+2021-09-20/20:59:28		Missing Value Columns are ['bill_amt1_sqrt', 'bill_amt2_sqrt', 'bill_amt3_sqrt', 'bill_amt4_sqrt', 'bill_amt5_sqrt', 'bill_amt6_sqrt', 'bill_amt1_ln', 'bill_amt2_ln', 'bill_amt3_ln', 'bill_amt4_ln', 'bill_amt5_ln', 'bill_amt6_ln']
+2021-09-20/20:59:28		Missing Values Search Completed
+2021-09-20/20:59:28		impute_missingValues Started!!!
+2021-09-20/20:59:28		impute_missingValues Completed!!!
+2021-09-20/20:59:28		calculate_loglikelihood Started!!!
+2021-09-20/20:59:29		calculate_loglikelihood Completed!!!
+2021-09-20/20:59:29		checkforTransformation Completed!!!
+2021-09-20/20:59:30		transformVariables Started!!!
+2021-09-20/20:59:30		transformVariables Completed!!!

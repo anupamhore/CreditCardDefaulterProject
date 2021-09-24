@@ -1,0 +1,14 @@
+2021-09-08/16:07:55		Database Connection Established 4.0.0.6816
+2021-09-08/16:07:55		anupam keyspace is located in Cassandra DB!!!
+2021-09-08/16:07:55		Table already created in Cassandra Keyspace!!!
+2021-09-08/16:07:55		Insertion Started!!!
+2021-09-08/16:28:31		Insertion Completed!!!
+2021-09-08/18:09:55		Database Connection Established 4.0.0.6816
+2021-09-08/18:09:55		anupam keyspace is located in Cassandra DB!!!
+2021-09-08/18:09:55		Table already created in Cassandra Keyspace!!!
+2021-09-08/18:10:27		Database Connection Established 4.0.0.6816
+2021-09-08/18:10:27		anupam keyspace is located in Cassandra DB!!!
+2021-09-08/18:10:27		Table already created in Cassandra Keyspace!!!
+2021-09-08/18:19:26		Database Connection Established 4.0.0.6816
+2021-09-08/18:19:26		anupam keyspace is located in Cassandra DB!!!
+2021-09-08/18:19:26		Table already created in Cassandra Keyspace!!!
