@@ -24,7 +24,7 @@ A Flask UI is presented as the front-end to use for prediction. Users can select
 
 It is hosted in Heroku cloud at 
 
-<a href="https://credit-card-defauldetection.herokuapp.com/" target="_blank">Credit Card Default Detection System</a>
+<a href="https://credit-card-defaultdetection.herokuapp.com/" target="_blank">Credit Card Default Detection System</a>
 
 <img src="https://www.dropbox.com/s/4bim4be7j7002zw/predictmodel.png?raw=1" style="width:600px;height:250px"/>
 
