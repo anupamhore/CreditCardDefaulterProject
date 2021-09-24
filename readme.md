@@ -1,6 +1,6 @@
 <h1>Introduction</h1>
 <hr>
-<strong>Credit Card Default Detection System</strong> is a ML solution to predict the probability of credit default based on credit card owner’s characteristics and payment history.
+<strong>Credit Card Default Detection System</strong> is a ML solution to predict the probability of credit default based on credit card owner’s characteristics and payment history. <br/>
 
 <div></div>
 
