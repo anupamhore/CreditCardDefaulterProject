@@ -1,0 +1,30 @@
+{
+  "NumberofColumns" : 24,
+  "ColName": {
+    "ID" : "int",
+    "LIMIT_BAL" : "text",
+    "SEX" : "text",
+    "EDUCATION" : "text",
+    "MARRIAGE" : "text",
+    "AGE" : "text",
+    "PAY_0" : "text",
+    "PAY_2" : "text",
+    "PAY_3" : "text",
+    "PAY_4" : "text",
+    "PAY_5" : "text",
+    "PAY_6" : "text",
+    "BILL_AMT1" : "text",
+    "BILL_AMT2" : "text",
+    "BILL_AMT3" : "text",
+    "BILL_AMT4" : "text",
+    "BILL_AMT5" : "text",
+    "BILL_AMT6" : "text",
+    "PAY_AMT1" : "text",
+    "PAY_AMT2" : "text",
+    "PAY_AMT3" : "text",
+    "PAY_AMT4" : "text",
+    "PAY_AMT5" : "text",
+    "PAY_AMT6" : "text"
+  }
+
+}
