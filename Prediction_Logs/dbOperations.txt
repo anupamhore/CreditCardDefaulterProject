@@ -1,0 +1,647 @@
+2021-09-22/23:58:27		Database Connection Established 4.0.0.6816
+2021-09-22/23:58:27		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-22/23:58:27		anupam keyspace is located in Cassandra DB!!!
+2021-09-22/23:58:31		ID column to create
+2021-09-22/23:58:31		Table and first column in Cassandra keyspace!!!
+2021-09-22/23:58:31		LIMIT_BAL column to create
+2021-09-22/23:58:32		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-22/23:58:32		SEX column to create
+2021-09-22/23:58:32		SEX column created in Cassandra keyspace!!!
+2021-09-22/23:58:32		EDUCATION column to create
+2021-09-22/23:58:33		EDUCATION column created in Cassandra keyspace!!!
+2021-09-22/23:58:33		MARRIAGE column to create
+2021-09-22/23:58:33		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-22/23:58:33		AGE column to create
+2021-09-22/23:58:33		AGE column created in Cassandra keyspace!!!
+2021-09-22/23:58:33		PAY_0 column to create
+2021-09-22/23:58:34		PAY_0 column created in Cassandra keyspace!!!
+2021-09-22/23:58:34		PAY_2 column to create
+2021-09-22/23:58:34		PAY_2 column created in Cassandra keyspace!!!
+2021-09-22/23:58:34		PAY_3 column to create
+2021-09-22/23:58:35		PAY_3 column created in Cassandra keyspace!!!
+2021-09-22/23:58:35		PAY_4 column to create
+2021-09-22/23:58:35		PAY_4 column created in Cassandra keyspace!!!
+2021-09-22/23:58:35		PAY_5 column to create
+2021-09-22/23:58:35		PAY_5 column created in Cassandra keyspace!!!
+2021-09-22/23:58:35		PAY_6 column to create
+2021-09-22/23:58:36		PAY_6 column created in Cassandra keyspace!!!
+2021-09-22/23:58:36		BILL_AMT1 column to create
+2021-09-22/23:58:36		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-22/23:58:36		BILL_AMT2 column to create
+2021-09-22/23:58:37		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-22/23:58:37		BILL_AMT3 column to create
+2021-09-22/23:58:37		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-22/23:58:37		BILL_AMT4 column to create
+2021-09-22/23:58:38		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-22/23:58:38		BILL_AMT5 column to create
+2021-09-22/23:58:38		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-22/23:58:38		BILL_AMT6 column to create
+2021-09-22/23:58:39		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-22/23:58:39		PAY_AMT1 column to create
+2021-09-22/23:58:39		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-22/23:58:39		PAY_AMT2 column to create
+2021-09-22/23:58:39		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-22/23:58:39		PAY_AMT3 column to create
+2021-09-22/23:58:40		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-22/23:58:40		PAY_AMT4 column to create
+2021-09-22/23:58:40		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-22/23:58:40		PAY_AMT5 column to create
+2021-09-22/23:58:41		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-22/23:58:41		PAY_AMT6 column to create
+2021-09-22/23:58:41		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-22/23:58:41		Table Creation completed in Cassandra keyspace!!!
+2021-09-22/23:58:41		Database connection Failed with Cluster is already shut down
+2021-09-23/00:00:32		Database Connection Established 4.0.0.6816
+2021-09-23/00:00:32		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-23/00:00:32		anupam keyspace is located in Cassandra DB!!!
+2021-09-23/00:00:33		ID column to create
+2021-09-23/00:00:34		Table and first column in Cassandra keyspace!!!
+2021-09-23/00:00:34		LIMIT_BAL column to create
+2021-09-23/00:00:34		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-23/00:00:34		SEX column to create
+2021-09-23/00:00:34		SEX column created in Cassandra keyspace!!!
+2021-09-23/00:00:34		EDUCATION column to create
+2021-09-23/00:00:35		EDUCATION column created in Cassandra keyspace!!!
+2021-09-23/00:00:35		MARRIAGE column to create
+2021-09-23/00:00:35		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-23/00:00:35		AGE column to create
+2021-09-23/00:00:35		AGE column created in Cassandra keyspace!!!
+2021-09-23/00:00:35		PAY_0 column to create
+2021-09-23/00:00:36		PAY_0 column created in Cassandra keyspace!!!
+2021-09-23/00:00:36		PAY_2 column to create
+2021-09-23/00:00:36		PAY_2 column created in Cassandra keyspace!!!
+2021-09-23/00:00:36		PAY_3 column to create
+2021-09-23/00:00:37		PAY_3 column created in Cassandra keyspace!!!
+2021-09-23/00:00:37		PAY_4 column to create
+2021-09-23/00:00:37		PAY_4 column created in Cassandra keyspace!!!
+2021-09-23/00:00:37		PAY_5 column to create
+2021-09-23/00:00:37		PAY_5 column created in Cassandra keyspace!!!
+2021-09-23/00:00:37		PAY_6 column to create
+2021-09-23/00:00:38		PAY_6 column created in Cassandra keyspace!!!
+2021-09-23/00:00:38		BILL_AMT1 column to create
+2021-09-23/00:00:38		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-23/00:00:38		BILL_AMT2 column to create
+2021-09-23/00:00:39		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-23/00:00:39		BILL_AMT3 column to create
+2021-09-23/00:00:39		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-23/00:00:39		BILL_AMT4 column to create
+2021-09-23/00:00:40		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-23/00:00:40		BILL_AMT5 column to create
+2021-09-23/00:00:40		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-23/00:00:40		BILL_AMT6 column to create
+2021-09-23/00:00:41		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-23/00:00:41		PAY_AMT1 column to create
+2021-09-23/00:00:41		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-23/00:00:41		PAY_AMT2 column to create
+2021-09-23/00:00:42		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-23/00:00:42		PAY_AMT3 column to create
+2021-09-23/00:00:42		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-23/00:00:42		PAY_AMT4 column to create
+2021-09-23/00:00:42		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-23/00:00:42		PAY_AMT5 column to create
+2021-09-23/00:00:43		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-23/00:00:43		PAY_AMT6 column to create
+2021-09-23/00:00:43		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-23/00:00:43		Table Creation completed in Cassandra keyspace!!!
+2021-09-23/00:00:43		Insertion Started!!!
+2021-09-23/00:02:49		Insertion Completed!!!
+2021-09-23/00:53:34		Database Connection Established 4.0.0.6816
+2021-09-23/00:53:34		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-23/00:53:34		anupam keyspace is located in Cassandra DB!!!
+2021-09-23/00:53:39		ID column to create
+2021-09-23/00:53:39		Table and first column in Cassandra keyspace!!!
+2021-09-23/00:53:39		LIMIT_BAL column to create
+2021-09-23/00:53:40		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-23/00:53:40		SEX column to create
+2021-09-23/00:53:40		SEX column created in Cassandra keyspace!!!
+2021-09-23/00:53:40		EDUCATION column to create
+2021-09-23/00:53:41		EDUCATION column created in Cassandra keyspace!!!
+2021-09-23/00:53:41		MARRIAGE column to create
+2021-09-23/00:53:41		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-23/00:53:41		AGE column to create
+2021-09-23/00:53:41		AGE column created in Cassandra keyspace!!!
+2021-09-23/00:53:41		PAY_0 column to create
+2021-09-23/00:53:42		PAY_0 column created in Cassandra keyspace!!!
+2021-09-23/00:53:42		PAY_2 column to create
+2021-09-23/00:53:42		PAY_2 column created in Cassandra keyspace!!!
+2021-09-23/00:53:42		PAY_3 column to create
+2021-09-23/00:53:43		PAY_3 column created in Cassandra keyspace!!!
+2021-09-23/00:53:43		PAY_4 column to create
+2021-09-23/00:53:43		PAY_4 column created in Cassandra keyspace!!!
+2021-09-23/00:53:43		PAY_5 column to create
+2021-09-23/00:53:43		PAY_5 column created in Cassandra keyspace!!!
+2021-09-23/00:53:43		PAY_6 column to create
+2021-09-23/00:53:44		PAY_6 column created in Cassandra keyspace!!!
+2021-09-23/00:53:44		BILL_AMT1 column to create
+2021-09-23/00:53:44		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-23/00:53:44		BILL_AMT2 column to create
+2021-09-23/00:53:45		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-23/00:53:45		BILL_AMT3 column to create
+2021-09-23/00:53:45		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-23/00:53:45		BILL_AMT4 column to create
+2021-09-23/00:53:45		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-23/00:53:45		BILL_AMT5 column to create
+2021-09-23/00:53:46		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-23/00:53:46		BILL_AMT6 column to create
+2021-09-23/00:53:46		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-23/00:53:46		PAY_AMT1 column to create
+2021-09-23/00:53:47		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-23/00:53:47		PAY_AMT2 column to create
+2021-09-23/00:53:47		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-23/00:53:47		PAY_AMT3 column to create
+2021-09-23/00:53:47		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-23/00:53:47		PAY_AMT4 column to create
+2021-09-23/00:53:48		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-23/00:53:48		PAY_AMT5 column to create
+2021-09-23/00:53:48		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-23/00:53:48		PAY_AMT6 column to create
+2021-09-23/00:53:49		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-23/00:53:49		Table Creation completed in Cassandra keyspace!!!
+2021-09-23/00:53:49		Insertion Started!!!
+2021-09-23/00:56:09		Insertion Completed!!!
+2021-09-23/11:29:09		Database Connection Established 4.0.0.6816
+2021-09-23/11:29:09		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-23/11:29:09		anupam keyspace is located in Cassandra DB!!!
+2021-09-23/11:29:15		ID column to create
+2021-09-23/11:29:16		Table and first column in Cassandra keyspace!!!
+2021-09-23/11:29:16		LIMIT_BAL column to create
+2021-09-23/11:29:16		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-23/11:29:16		SEX column to create
+2021-09-23/11:29:16		SEX column created in Cassandra keyspace!!!
+2021-09-23/11:29:16		EDUCATION column to create
+2021-09-23/11:29:17		EDUCATION column created in Cassandra keyspace!!!
+2021-09-23/11:29:17		MARRIAGE column to create
+2021-09-23/11:29:17		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-23/11:29:17		AGE column to create
+2021-09-23/11:29:17		AGE column created in Cassandra keyspace!!!
+2021-09-23/11:29:17		PAY_0 column to create
+2021-09-23/11:29:18		PAY_0 column created in Cassandra keyspace!!!
+2021-09-23/11:29:18		PAY_2 column to create
+2021-09-23/11:29:18		PAY_2 column created in Cassandra keyspace!!!
+2021-09-23/11:29:18		PAY_3 column to create
+2021-09-23/11:29:18		PAY_3 column created in Cassandra keyspace!!!
+2021-09-23/11:29:18		PAY_4 column to create
+2021-09-23/11:29:19		PAY_4 column created in Cassandra keyspace!!!
+2021-09-23/11:29:19		PAY_5 column to create
+2021-09-23/11:29:19		PAY_5 column created in Cassandra keyspace!!!
+2021-09-23/11:29:19		PAY_6 column to create
+2021-09-23/11:29:20		PAY_6 column created in Cassandra keyspace!!!
+2021-09-23/11:29:20		BILL_AMT1 column to create
+2021-09-23/11:29:20		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-23/11:29:20		BILL_AMT2 column to create
+2021-09-23/11:29:20		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-23/11:29:20		BILL_AMT3 column to create
+2021-09-23/11:29:21		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-23/11:29:21		BILL_AMT4 column to create
+2021-09-23/11:29:21		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-23/11:29:21		BILL_AMT5 column to create
+2021-09-23/11:29:21		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-23/11:29:21		BILL_AMT6 column to create
+2021-09-23/11:29:22		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-23/11:29:22		PAY_AMT1 column to create
+2021-09-23/11:29:22		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-23/11:29:22		PAY_AMT2 column to create
+2021-09-23/11:29:22		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-23/11:29:22		PAY_AMT3 column to create
+2021-09-23/11:29:23		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-23/11:29:23		PAY_AMT4 column to create
+2021-09-23/11:29:23		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-23/11:29:23		PAY_AMT5 column to create
+2021-09-23/11:29:23		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-23/11:29:23		PAY_AMT6 column to create
+2021-09-23/11:29:24		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-23/11:29:24		Table Creation completed in Cassandra keyspace!!!
+2021-09-23/11:29:24		Insertion Started!!!
+2021-09-23/11:31:15		Insertion Completed!!!
+2021-09-24/15:16:49		Database Connection Established 4.0.0.6816
+2021-09-24/15:16:49		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/15:16:49		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/15:16:56		ID column to create
+2021-09-24/15:16:57		Table and first column in Cassandra keyspace!!!
+2021-09-24/15:16:57		LIMIT_BAL column to create
+2021-09-24/15:16:57		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/15:16:57		SEX column to create
+2021-09-24/15:16:57		SEX column created in Cassandra keyspace!!!
+2021-09-24/15:16:57		EDUCATION column to create
+2021-09-24/15:16:58		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/15:16:58		MARRIAGE column to create
+2021-09-24/15:16:58		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/15:16:58		AGE column to create
+2021-09-24/15:16:58		AGE column created in Cassandra keyspace!!!
+2021-09-24/15:16:58		PAY_0 column to create
+2021-09-24/15:16:59		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/15:16:59		PAY_2 column to create
+2021-09-24/15:16:59		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/15:16:59		PAY_3 column to create
+2021-09-24/15:16:59		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/15:16:59		PAY_4 column to create
+2021-09-24/15:16:59		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/15:16:59		PAY_5 column to create
+2021-09-24/15:17:00		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/15:17:00		PAY_6 column to create
+2021-09-24/15:17:00		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/15:17:00		BILL_AMT1 column to create
+2021-09-24/15:17:01		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:17:01		BILL_AMT2 column to create
+2021-09-24/15:17:01		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:17:01		BILL_AMT3 column to create
+2021-09-24/15:17:01		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:17:01		BILL_AMT4 column to create
+2021-09-24/15:17:02		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:17:02		BILL_AMT5 column to create
+2021-09-24/15:17:02		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:17:02		BILL_AMT6 column to create
+2021-09-24/15:17:02		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:17:02		PAY_AMT1 column to create
+2021-09-24/15:17:03		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:17:03		PAY_AMT2 column to create
+2021-09-24/15:17:03		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:17:03		PAY_AMT3 column to create
+2021-09-24/15:17:03		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:17:03		PAY_AMT4 column to create
+2021-09-24/15:17:04		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:17:04		PAY_AMT5 column to create
+2021-09-24/15:17:04		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:17:04		PAY_AMT6 column to create
+2021-09-24/15:17:04		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:17:04		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/15:17:04		Insertion Started!!!
+2021-09-24/15:18:39		Insertion Completed!!!
+2021-09-24/15:20:58		Database Connection Established 4.0.0.6816
+2021-09-24/15:20:58		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/15:20:58		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/15:21:02		ID column to create
+2021-09-24/15:21:03		Table and first column in Cassandra keyspace!!!
+2021-09-24/15:21:03		LIMIT_BAL column to create
+2021-09-24/15:21:03		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/15:21:03		SEX column to create
+2021-09-24/15:21:04		SEX column created in Cassandra keyspace!!!
+2021-09-24/15:21:04		EDUCATION column to create
+2021-09-24/15:21:04		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/15:21:04		MARRIAGE column to create
+2021-09-24/15:21:04		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/15:21:04		AGE column to create
+2021-09-24/15:21:05		AGE column created in Cassandra keyspace!!!
+2021-09-24/15:21:05		PAY_0 column to create
+2021-09-24/15:21:06		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/15:21:06		PAY_2 column to create
+2021-09-24/15:21:07		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/15:21:07		PAY_3 column to create
+2021-09-24/15:21:07		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/15:21:07		PAY_4 column to create
+2021-09-24/15:21:08		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/15:21:08		PAY_5 column to create
+2021-09-24/15:21:08		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/15:21:08		PAY_6 column to create
+2021-09-24/15:21:08		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/15:21:08		BILL_AMT1 column to create
+2021-09-24/15:21:09		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:21:09		BILL_AMT2 column to create
+2021-09-24/15:21:09		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:21:09		BILL_AMT3 column to create
+2021-09-24/15:21:10		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:21:10		BILL_AMT4 column to create
+2021-09-24/15:21:10		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:21:10		BILL_AMT5 column to create
+2021-09-24/15:21:10		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:21:10		BILL_AMT6 column to create
+2021-09-24/15:21:11		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:21:11		PAY_AMT1 column to create
+2021-09-24/15:21:12		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:21:12		PAY_AMT2 column to create
+2021-09-24/15:21:12		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:21:12		PAY_AMT3 column to create
+2021-09-24/15:21:12		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:21:12		PAY_AMT4 column to create
+2021-09-24/15:21:13		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:21:13		PAY_AMT5 column to create
+2021-09-24/15:21:13		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:21:13		PAY_AMT6 column to create
+2021-09-24/15:21:13		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:21:13		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/15:21:13		Insertion Started!!!
+2021-09-24/15:22:48		Insertion Completed!!!
+2021-09-24/15:26:23		Database Connection Established 4.0.0.6816
+2021-09-24/15:26:23		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/15:26:23		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/15:26:27		ID column to create
+2021-09-24/15:26:28		Table and first column in Cassandra keyspace!!!
+2021-09-24/15:26:28		LIMIT_BAL column to create
+2021-09-24/15:26:28		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/15:26:28		SEX column to create
+2021-09-24/15:26:28		SEX column created in Cassandra keyspace!!!
+2021-09-24/15:26:28		EDUCATION column to create
+2021-09-24/15:26:29		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/15:26:29		MARRIAGE column to create
+2021-09-24/15:26:29		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/15:26:29		AGE column to create
+2021-09-24/15:26:30		AGE column created in Cassandra keyspace!!!
+2021-09-24/15:26:30		PAY_0 column to create
+2021-09-24/15:26:30		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/15:26:30		PAY_2 column to create
+2021-09-24/15:26:30		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/15:26:30		PAY_3 column to create
+2021-09-24/15:26:31		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/15:26:31		PAY_4 column to create
+2021-09-24/15:26:31		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/15:26:31		PAY_5 column to create
+2021-09-24/15:26:31		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/15:26:31		PAY_6 column to create
+2021-09-24/15:26:32		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/15:26:32		BILL_AMT1 column to create
+2021-09-24/15:26:32		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:26:32		BILL_AMT2 column to create
+2021-09-24/15:26:32		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:26:32		BILL_AMT3 column to create
+2021-09-24/15:26:32		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:26:32		BILL_AMT4 column to create
+2021-09-24/15:26:33		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:26:33		BILL_AMT5 column to create
+2021-09-24/15:26:33		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:26:33		BILL_AMT6 column to create
+2021-09-24/15:26:33		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:26:33		PAY_AMT1 column to create
+2021-09-24/15:26:34		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:26:34		PAY_AMT2 column to create
+2021-09-24/15:26:34		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:26:34		PAY_AMT3 column to create
+2021-09-24/15:26:35		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:26:35		PAY_AMT4 column to create
+2021-09-24/15:26:35		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:26:35		PAY_AMT5 column to create
+2021-09-24/15:26:35		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:26:35		PAY_AMT6 column to create
+2021-09-24/15:26:35		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:26:35		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/15:26:36		Insertion Started!!!
+2021-09-24/15:28:11		Insertion Completed!!!
+2021-09-24/15:44:30		Database Connection Established 4.0.0.6816
+2021-09-24/15:44:30		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/15:44:30		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/15:44:36		ID column to create
+2021-09-24/15:44:36		Table and first column in Cassandra keyspace!!!
+2021-09-24/15:44:36		LIMIT_BAL column to create
+2021-09-24/15:44:37		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/15:44:37		SEX column to create
+2021-09-24/15:44:37		SEX column created in Cassandra keyspace!!!
+2021-09-24/15:44:37		EDUCATION column to create
+2021-09-24/15:44:37		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/15:44:37		MARRIAGE column to create
+2021-09-24/15:44:37		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/15:44:37		AGE column to create
+2021-09-24/15:44:38		AGE column created in Cassandra keyspace!!!
+2021-09-24/15:44:38		PAY_0 column to create
+2021-09-24/15:44:38		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/15:44:38		PAY_2 column to create
+2021-09-24/15:44:39		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/15:44:39		PAY_3 column to create
+2021-09-24/15:44:39		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/15:44:39		PAY_4 column to create
+2021-09-24/15:44:39		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/15:44:39		PAY_5 column to create
+2021-09-24/15:44:39		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/15:44:39		PAY_6 column to create
+2021-09-24/15:44:40		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/15:44:40		BILL_AMT1 column to create
+2021-09-24/15:44:40		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:44:40		BILL_AMT2 column to create
+2021-09-24/15:44:40		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:44:40		BILL_AMT3 column to create
+2021-09-24/15:44:41		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:44:41		BILL_AMT4 column to create
+2021-09-24/15:44:41		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:44:41		BILL_AMT5 column to create
+2021-09-24/15:44:41		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:44:41		BILL_AMT6 column to create
+2021-09-24/15:44:42		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:44:42		PAY_AMT1 column to create
+2021-09-24/15:44:42		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/15:44:42		PAY_AMT2 column to create
+2021-09-24/15:44:43		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/15:44:43		PAY_AMT3 column to create
+2021-09-24/15:44:43		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/15:44:43		PAY_AMT4 column to create
+2021-09-24/15:44:43		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/15:44:43		PAY_AMT5 column to create
+2021-09-24/15:44:43		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/15:44:43		PAY_AMT6 column to create
+2021-09-24/15:44:44		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/15:44:44		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/15:44:44		Insertion Started!!!
+2021-09-24/15:46:17		Insertion Completed!!!
+2021-09-24/16:18:57		Database Connection Established 4.0.0.6816
+2021-09-24/16:18:57		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/16:18:57		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/16:19:03		ID column to create
+2021-09-24/16:19:03		Table and first column in Cassandra keyspace!!!
+2021-09-24/16:19:03		LIMIT_BAL column to create
+2021-09-24/16:19:03		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/16:19:03		SEX column to create
+2021-09-24/16:19:04		SEX column created in Cassandra keyspace!!!
+2021-09-24/16:19:04		EDUCATION column to create
+2021-09-24/16:19:04		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/16:19:04		MARRIAGE column to create
+2021-09-24/16:19:04		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/16:19:04		AGE column to create
+2021-09-24/16:19:05		AGE column created in Cassandra keyspace!!!
+2021-09-24/16:19:05		PAY_0 column to create
+2021-09-24/16:19:05		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/16:19:05		PAY_2 column to create
+2021-09-24/16:19:05		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/16:19:05		PAY_3 column to create
+2021-09-24/16:19:06		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/16:19:06		PAY_4 column to create
+2021-09-24/16:19:06		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/16:19:06		PAY_5 column to create
+2021-09-24/16:19:06		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/16:19:06		PAY_6 column to create
+2021-09-24/16:19:07		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/16:19:07		BILL_AMT1 column to create
+2021-09-24/16:19:07		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/16:19:07		BILL_AMT2 column to create
+2021-09-24/16:19:07		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/16:19:07		BILL_AMT3 column to create
+2021-09-24/16:19:08		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/16:19:08		BILL_AMT4 column to create
+2021-09-24/16:19:08		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/16:19:08		BILL_AMT5 column to create
+2021-09-24/16:19:08		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/16:19:08		BILL_AMT6 column to create
+2021-09-24/16:19:09		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/16:19:09		PAY_AMT1 column to create
+2021-09-24/16:19:09		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/16:19:09		PAY_AMT2 column to create
+2021-09-24/16:19:09		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/16:19:09		PAY_AMT3 column to create
+2021-09-24/16:19:10		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/16:19:10		PAY_AMT4 column to create
+2021-09-24/16:19:10		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/16:19:10		PAY_AMT5 column to create
+2021-09-24/16:19:11		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/16:19:11		PAY_AMT6 column to create
+2021-09-24/16:19:11		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/16:19:11		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/16:19:11		Insertion Started!!!
+2021-09-24/16:20:49		Insertion Completed!!!
+2021-09-24/16:30:38		Database Connection Established 4.0.0.6816
+2021-09-24/16:30:38		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/16:30:38		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/16:30:43		ID column to create
+2021-09-24/16:30:44		Table and first column in Cassandra keyspace!!!
+2021-09-24/16:30:44		LIMIT_BAL column to create
+2021-09-24/16:30:44		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/16:30:44		SEX column to create
+2021-09-24/16:30:45		SEX column created in Cassandra keyspace!!!
+2021-09-24/16:30:45		EDUCATION column to create
+2021-09-24/16:30:45		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/16:30:45		MARRIAGE column to create
+2021-09-24/16:30:45		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/16:30:45		AGE column to create
+2021-09-24/16:30:45		AGE column created in Cassandra keyspace!!!
+2021-09-24/16:30:45		PAY_0 column to create
+2021-09-24/16:30:46		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/16:30:46		PAY_2 column to create
+2021-09-24/16:30:46		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/16:30:46		PAY_3 column to create
+2021-09-24/16:30:47		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/16:30:47		PAY_4 column to create
+2021-09-24/16:30:47		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/16:30:47		PAY_5 column to create
+2021-09-24/16:30:47		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/16:30:47		PAY_6 column to create
+2021-09-24/16:30:48		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/16:30:48		BILL_AMT1 column to create
+2021-09-24/16:30:48		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/16:30:48		BILL_AMT2 column to create
+2021-09-24/16:30:48		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/16:30:48		BILL_AMT3 column to create
+2021-09-24/16:30:49		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/16:30:49		BILL_AMT4 column to create
+2021-09-24/16:30:49		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/16:30:49		BILL_AMT5 column to create
+2021-09-24/16:30:50		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/16:30:50		BILL_AMT6 column to create
+2021-09-24/16:30:50		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/16:30:50		PAY_AMT1 column to create
+2021-09-24/16:30:50		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/16:30:50		PAY_AMT2 column to create
+2021-09-24/16:30:51		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/16:30:51		PAY_AMT3 column to create
+2021-09-24/16:30:51		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/16:30:51		PAY_AMT4 column to create
+2021-09-24/16:30:51		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/16:30:51		PAY_AMT5 column to create
+2021-09-24/16:30:51		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/16:30:51		PAY_AMT6 column to create
+2021-09-24/16:30:52		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/16:30:52		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/16:30:52		Insertion Started!!!
+2021-09-24/16:32:47		Insertion Completed!!!
+2021-09-24/17:06:00		Database Connection Established 4.0.0.6816
+2021-09-24/17:06:00		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/17:06:00		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/17:06:06		ID column to create
+2021-09-24/17:06:06		Table and first column in Cassandra keyspace!!!
+2021-09-24/17:06:06		LIMIT_BAL column to create
+2021-09-24/17:06:07		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/17:06:07		SEX column to create
+2021-09-24/17:06:07		SEX column created in Cassandra keyspace!!!
+2021-09-24/17:06:07		EDUCATION column to create
+2021-09-24/17:06:07		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/17:06:07		MARRIAGE column to create
+2021-09-24/17:06:08		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/17:06:08		AGE column to create
+2021-09-24/17:06:08		AGE column created in Cassandra keyspace!!!
+2021-09-24/17:06:08		PAY_0 column to create
+2021-09-24/17:06:08		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/17:06:08		PAY_2 column to create
+2021-09-24/17:06:08		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/17:06:08		PAY_3 column to create
+2021-09-24/17:06:09		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/17:06:09		PAY_4 column to create
+2021-09-24/17:06:09		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/17:06:09		PAY_5 column to create
+2021-09-24/17:06:09		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/17:06:09		PAY_6 column to create
+2021-09-24/17:06:10		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/17:06:10		BILL_AMT1 column to create
+2021-09-24/17:06:10		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/17:06:10		BILL_AMT2 column to create
+2021-09-24/17:06:10		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/17:06:10		BILL_AMT3 column to create
+2021-09-24/17:06:11		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/17:06:11		BILL_AMT4 column to create
+2021-09-24/17:06:11		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/17:06:11		BILL_AMT5 column to create
+2021-09-24/17:06:11		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/17:06:11		BILL_AMT6 column to create
+2021-09-24/17:06:12		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/17:06:12		PAY_AMT1 column to create
+2021-09-24/17:06:12		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/17:06:12		PAY_AMT2 column to create
+2021-09-24/17:06:12		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/17:06:12		PAY_AMT3 column to create
+2021-09-24/17:06:13		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/17:06:13		PAY_AMT4 column to create
+2021-09-24/17:06:13		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/17:06:13		PAY_AMT5 column to create
+2021-09-24/17:06:13		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/17:06:13		PAY_AMT6 column to create
+2021-09-24/17:06:13		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/17:06:13		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/17:06:13		Insertion Started!!!
+2021-09-24/17:07:49		Insertion Completed!!!
+2021-09-24/17:08:48		Database Connection Established 4.0.0.6816
+2021-09-24/17:08:48		Columns:{'ID': 'int', 'LIMIT_BAL': 'text', 'SEX': 'text', 'EDUCATION': 'text', 'MARRIAGE': 'text', 'AGE': 'text', 'PAY_0': 'text', 'PAY_2': 'text', 'PAY_3': 'text', 'PAY_4': 'text', 'PAY_5': 'text', 'PAY_6': 'text', 'BILL_AMT1': 'text', 'BILL_AMT2': 'text', 'BILL_AMT3': 'text', 'BILL_AMT4': 'text', 'BILL_AMT5': 'text', 'BILL_AMT6': 'text', 'PAY_AMT1': 'text', 'PAY_AMT2': 'text', 'PAY_AMT3': 'text', 'PAY_AMT4': 'text', 'PAY_AMT5': 'text', 'PAY_AMT6': 'text'}
+2021-09-24/17:08:48		anupam keyspace is located in Cassandra DB!!!
+2021-09-24/17:08:51		ID column to create
+2021-09-24/17:08:52		Table and first column in Cassandra keyspace!!!
+2021-09-24/17:08:52		LIMIT_BAL column to create
+2021-09-24/17:08:52		LIMIT_BAL column created in Cassandra keyspace!!!
+2021-09-24/17:08:52		SEX column to create
+2021-09-24/17:08:53		SEX column created in Cassandra keyspace!!!
+2021-09-24/17:08:53		EDUCATION column to create
+2021-09-24/17:08:53		EDUCATION column created in Cassandra keyspace!!!
+2021-09-24/17:08:53		MARRIAGE column to create
+2021-09-24/17:08:54		MARRIAGE column created in Cassandra keyspace!!!
+2021-09-24/17:08:54		AGE column to create
+2021-09-24/17:08:54		AGE column created in Cassandra keyspace!!!
+2021-09-24/17:08:54		PAY_0 column to create
+2021-09-24/17:08:56		PAY_0 column created in Cassandra keyspace!!!
+2021-09-24/17:08:56		PAY_2 column to create
+2021-09-24/17:08:57		PAY_2 column created in Cassandra keyspace!!!
+2021-09-24/17:08:57		PAY_3 column to create
+2021-09-24/17:08:57		PAY_3 column created in Cassandra keyspace!!!
+2021-09-24/17:08:57		PAY_4 column to create
+2021-09-24/17:08:57		PAY_4 column created in Cassandra keyspace!!!
+2021-09-24/17:08:57		PAY_5 column to create
+2021-09-24/17:08:58		PAY_5 column created in Cassandra keyspace!!!
+2021-09-24/17:08:58		PAY_6 column to create
+2021-09-24/17:08:58		PAY_6 column created in Cassandra keyspace!!!
+2021-09-24/17:08:58		BILL_AMT1 column to create
+2021-09-24/17:08:58		BILL_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/17:08:58		BILL_AMT2 column to create
+2021-09-24/17:08:59		BILL_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/17:08:59		BILL_AMT3 column to create
+2021-09-24/17:08:59		BILL_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/17:08:59		BILL_AMT4 column to create
+2021-09-24/17:08:59		BILL_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/17:08:59		BILL_AMT5 column to create
+2021-09-24/17:09:00		BILL_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/17:09:00		BILL_AMT6 column to create
+2021-09-24/17:09:00		BILL_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/17:09:00		PAY_AMT1 column to create
+2021-09-24/17:09:00		PAY_AMT1 column created in Cassandra keyspace!!!
+2021-09-24/17:09:00		PAY_AMT2 column to create
+2021-09-24/17:09:00		PAY_AMT2 column created in Cassandra keyspace!!!
+2021-09-24/17:09:00		PAY_AMT3 column to create
+2021-09-24/17:09:01		PAY_AMT3 column created in Cassandra keyspace!!!
+2021-09-24/17:09:01		PAY_AMT4 column to create
+2021-09-24/17:09:01		PAY_AMT4 column created in Cassandra keyspace!!!
+2021-09-24/17:09:01		PAY_AMT5 column to create
+2021-09-24/17:09:01		PAY_AMT5 column created in Cassandra keyspace!!!
+2021-09-24/17:09:01		PAY_AMT6 column to create
+2021-09-24/17:09:02		PAY_AMT6 column created in Cassandra keyspace!!!
+2021-09-24/17:09:02		Table Creation completed in Cassandra keyspace!!!
+2021-09-24/17:09:02		Insertion Started!!!
+2021-09-24/17:10:39		Insertion Completed!!!

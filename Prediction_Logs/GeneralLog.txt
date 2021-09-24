@@ -1,0 +1,75 @@
+2021-09-22/13:56:40		BadRaw Directory deleted before starting validation!!!
+2021-09-22/13:56:40		GoodRaw directory deleted successfully!!!
+2021-09-22/15:04:12		BadRaw Directory deleted before starting validation!!!
+2021-09-22/15:04:12		GoodRaw directory deleted successfully!!!
+2021-09-22/20:45:35		BadRaw Directory deleted before starting validation!!!
+2021-09-22/20:45:35		GoodRaw directory deleted successfully!!!
+2021-09-22/20:51:52		BadRaw Directory deleted before starting validation!!!
+2021-09-22/20:51:52		GoodRaw directory deleted successfully!!!
+2021-09-22/20:55:16		BadRaw Directory deleted before starting validation!!!
+2021-09-22/20:55:16		GoodRaw directory deleted successfully!!!
+2021-09-22/20:58:40		BadRaw Directory deleted before starting validation!!!
+2021-09-22/20:58:40		GoodRaw directory deleted successfully!!!
+2021-09-22/21:02:05		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:02:05		GoodRaw directory deleted successfully!!!
+2021-09-22/21:02:55		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:02:55		GoodRaw directory deleted successfully!!!
+2021-09-22/21:08:25		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:08:25		GoodRaw directory deleted successfully!!!
+2021-09-22/21:12:44		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:12:44		GoodRaw directory deleted successfully!!!
+2021-09-22/21:15:40		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:15:40		GoodRaw directory deleted successfully!!!
+2021-09-22/21:21:39		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:21:39		GoodRaw directory deleted successfully!!!
+2021-09-22/21:27:33		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:27:33		GoodRaw directory deleted successfully!!!
+2021-09-22/21:31:36		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:31:36		GoodRaw directory deleted successfully!!!
+2021-09-22/21:37:23		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:37:23		GoodRaw directory deleted successfully!!!
+2021-09-22/21:41:31		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:41:31		GoodRaw directory deleted successfully!!!
+2021-09-22/21:46:05		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:46:05		GoodRaw directory deleted successfully!!!
+2021-09-22/21:57:22		BadRaw Directory deleted before starting validation!!!
+2021-09-22/21:57:22		GoodRaw directory deleted successfully!!!
+2021-09-22/22:00:11		BadRaw Directory deleted before starting validation!!!
+2021-09-22/22:00:11		GoodRaw directory deleted successfully!!!
+2021-09-22/22:16:16		BadRaw Directory deleted before starting validation!!!
+2021-09-22/22:16:16		GoodRaw directory deleted successfully!!!
+2021-09-22/23:41:26		BadRaw Directory deleted before starting validation!!!
+2021-09-22/23:41:26		GoodRaw directory deleted successfully!!!
+2021-09-22/23:49:34		BadRaw Directory deleted before starting validation!!!
+2021-09-22/23:49:34		GoodRaw directory deleted successfully!!!
+2021-09-22/23:56:50		BadRaw Directory deleted before starting validation!!!
+2021-09-22/23:56:50		GoodRaw directory deleted successfully!!!
+2021-09-22/23:58:20		BadRaw Directory deleted before starting validation!!!
+2021-09-22/23:58:20		GoodRaw directory deleted successfully!!!
+2021-09-23/00:00:25		BadRaw Directory deleted before starting validation!!!
+2021-09-23/00:00:25		GoodRaw directory deleted successfully!!!
+2021-09-23/00:02:49		GoodRaw directory deleted successfully!!!
+2021-09-23/00:53:27		BadRaw Directory deleted before starting validation!!!
+2021-09-23/00:56:09		GoodRaw directory deleted successfully!!!
+2021-09-23/11:29:02		BadRaw Directory deleted before starting validation!!!
+2021-09-23/11:31:15		GoodRaw directory deleted successfully!!!
+2021-09-24/15:16:40		BadRaw Directory deleted before starting validation!!!
+2021-09-24/15:18:39		GoodRaw directory deleted successfully!!!
+2021-09-24/15:20:49		BadRaw Directory deleted before starting validation!!!
+2021-09-24/15:22:48		GoodRaw directory deleted successfully!!!
+2021-09-24/15:26:14		BadRaw Directory deleted before starting validation!!!
+2021-09-24/15:28:11		GoodRaw directory deleted successfully!!!
+2021-09-24/15:44:23		BadRaw Directory deleted before starting validation!!!
+2021-09-24/15:46:17		GoodRaw directory deleted successfully!!!
+2021-09-24/16:18:48		BadRaw Directory deleted before starting validation!!!
+2021-09-24/16:20:49		GoodRaw directory deleted successfully!!!
+2021-09-24/16:30:30		BadRaw Directory deleted before starting validation!!!
+2021-09-24/16:32:47		GoodRaw directory deleted successfully!!!
+2021-09-24/17:05:52		BadRaw Directory deleted before starting validation!!!
+2021-09-24/17:06:23		BadRaw Directory deleted before starting validation!!!
+2021-09-24/17:06:23		Error while deleting directory: [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_files_validated/Good_Raw/TestData.csv'
+2021-09-24/17:06:32		Error while deleting directory: [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_files_validated/Good_Raw/TestData.csv'
+2021-09-24/17:06:53		Error while deleting directory: [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_files_validated/Good_Raw/TestData.csv'
+2021-09-24/17:07:35		Error while deleting directory: [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_files_validated/Good_Raw/TestData.csv'
+2021-09-24/17:07:49		GoodRaw directory deleted successfully!!!
+2021-09-24/17:10:39		GoodRaw directory deleted successfully!!!

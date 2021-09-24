@@ -1,0 +1,77 @@
+2021-09-23/10:17:42		Start of Prediction!!!
+2021-09-23/10:17:42		Missing Value Search Started
+2021-09-23/10:17:42		Missing Values Search Completed
+2021-09-23/10:17:42		dropVariables Started!!!
+2021-09-23/10:17:42		dropVariables Completed!!!
+2021-09-23/10:17:42		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-23/10:17:42		End of Prediction
+2021-09-23/10:55:27		Start of Prediction!!!
+2021-09-23/10:55:27		Missing Value Search Started
+2021-09-23/10:55:27		Missing Values Search Completed
+2021-09-23/10:55:27		dropVariables Started!!!
+2021-09-23/10:55:27		dropVariables Completed!!!
+2021-09-23/10:55:28		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-23/10:55:28		End of Prediction
+2021-09-23/11:31:15		Start of Prediction!!!
+2021-09-23/11:31:15		Missing Value Search Started
+2021-09-23/11:31:15		Missing Values Search Completed
+2021-09-23/11:31:15		dropVariables Started!!!
+2021-09-23/11:31:15		dropVariables Completed!!!
+2021-09-23/11:31:15		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-23/11:31:15		End of Prediction
+2021-09-24/15:18:39		Start of Prediction!!!
+2021-09-24/15:18:39		Missing Value Search Started
+2021-09-24/15:18:39		Missing Values Search Completed
+2021-09-24/15:18:39		dropVariables Started!!!
+2021-09-24/15:18:39		dropVariables Completed!!!
+2021-09-24/15:18:39		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/15:18:39		End of Prediction
+2021-09-24/15:22:48		Start of Prediction!!!
+2021-09-24/15:22:48		Missing Value Search Started
+2021-09-24/15:22:48		Missing Values Search Completed
+2021-09-24/15:22:48		dropVariables Started!!!
+2021-09-24/15:22:48		dropVariables Completed!!!
+2021-09-24/15:22:48		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/15:22:48		End of Prediction
+2021-09-24/15:28:11		Start of Prediction!!!
+2021-09-24/15:28:11		Missing Value Search Started
+2021-09-24/15:28:11		Missing Values Search Completed
+2021-09-24/15:28:11		dropVariables Started!!!
+2021-09-24/15:28:11		dropVariables Completed!!!
+2021-09-24/15:28:11		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/15:28:11		End of Prediction
+2021-09-24/15:46:17		Start of Prediction!!!
+2021-09-24/15:46:17		Missing Value Search Started
+2021-09-24/15:46:17		Missing Values Search Completed
+2021-09-24/15:46:17		dropVariables Started!!!
+2021-09-24/15:46:17		dropVariables Completed!!!
+2021-09-24/15:46:17		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/15:46:17		End of Prediction
+2021-09-24/16:20:49		Start of Prediction!!!
+2021-09-24/16:20:49		Missing Value Search Started
+2021-09-24/16:20:49		Missing Values Search Completed
+2021-09-24/16:20:49		dropVariables Started!!!
+2021-09-24/16:20:49		dropVariables Completed!!!
+2021-09-24/16:20:50		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/16:20:50		End of Prediction
+2021-09-24/16:32:47		Start of Prediction!!!
+2021-09-24/16:32:47		Missing Value Search Started
+2021-09-24/16:32:47		Missing Values Search Completed
+2021-09-24/16:32:47		dropVariables Started!!!
+2021-09-24/16:32:47		dropVariables Completed!!!
+2021-09-24/16:32:47		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/16:32:47		End of Prediction
+2021-09-24/17:07:49		Start of Prediction!!!
+2021-09-24/17:07:49		Missing Value Search Started
+2021-09-24/17:07:49		Missing Values Search Completed
+2021-09-24/17:07:49		dropVariables Started!!!
+2021-09-24/17:07:49		dropVariables Completed!!!
+2021-09-24/17:07:49		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/17:07:49		End of Prediction
+2021-09-24/17:10:39		Start of Prediction!!!
+2021-09-24/17:10:39		Missing Value Search Started
+2021-09-24/17:10:39		Missing Values Search Completed
+2021-09-24/17:10:39		dropVariables Started!!!
+2021-09-24/17:10:39		dropVariables Completed!!!
+2021-09-24/17:10:39		End Path: C:\Users\anupa\Desktop\Predictions.csv
+2021-09-24/17:10:39		End of Prediction

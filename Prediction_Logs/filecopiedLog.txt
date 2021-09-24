@@ -1,0 +1,145 @@
+2021-09-22/21:02:05		Filename: TestData.xlsx
+2021-09-22/21:02:05		Read Excel File Started
+2021-09-22/21:02:06		Read Excel File
+2021-09-22/21:02:06		splitArr[0]TestData
+2021-09-22/21:02:06		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:02:55		Filename: TestData.xlsx
+2021-09-22/21:02:55		Read Excel File Started
+2021-09-22/21:02:57		Read Excel File
+2021-09-22/21:02:57		splitArr[0]TestData
+2021-09-22/21:02:57		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:08:25		Filename: TestData.xlsx
+2021-09-22/21:08:25		Read Excel File Started
+2021-09-22/21:08:26		Read Excel File
+2021-09-22/21:08:26		splitArr[0]TestData
+2021-09-22/21:08:26		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:12:44		Filename: TestData.xlsx
+2021-09-22/21:12:44		Read Excel File Started
+2021-09-22/21:12:46		Read Excel File
+2021-09-22/21:12:46		splitArr[0]TestData
+2021-09-22/21:12:46		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:15:40		Filename: TestData.xlsx
+2021-09-22/21:15:40		Read Excel File Started
+2021-09-22/21:15:41		Read Excel File
+2021-09-22/21:15:41		splitArr[0]TestData
+2021-09-22/21:15:41		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:21:39		Filename: TestData.xlsx
+2021-09-22/21:21:39		Read Excel File Started
+2021-09-22/21:21:41		Read Excel File
+2021-09-22/21:21:41		splitArr[0]TestData
+2021-09-22/21:21:41		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:27:33		Filename: TestData.xlsx
+2021-09-22/21:27:33		Read Excel File Started
+2021-09-22/21:27:35		Read Excel File
+2021-09-22/21:27:35		splitArr[0]TestData
+2021-09-22/21:27:35		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:31:36		Filename: TestData.xlsx
+2021-09-22/21:31:36		Read Excel File Started
+2021-09-22/21:31:37		Read Excel File
+2021-09-22/21:31:37		splitArr[0]TestData
+2021-09-22/21:31:37		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:37:23		Filename: TestData.xlsx
+2021-09-22/21:37:23		Read Excel File Started
+2021-09-22/21:37:26		Read Excel File
+2021-09-22/21:37:26		splitArr[0]TestData
+2021-09-22/21:37:26		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:41:31		Filename: TestData.xlsx
+2021-09-22/21:41:31		Read Excel File Started
+2021-09-22/21:41:33		Read Excel File
+2021-09-22/21:41:33		splitArr[0]TestData
+2021-09-22/21:41:33		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:46:05		Filename: TestData.xlsx
+2021-09-22/21:46:05		Read Excel File Started
+2021-09-22/21:46:07		Read Excel File
+2021-09-22/21:46:07		splitArr[0]TestData
+2021-09-22/21:46:07		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/21:57:22		Filename: TestData.xlsx
+2021-09-22/21:57:22		Read Excel File Started
+2021-09-22/21:57:24		Read Excel File
+2021-09-22/21:57:24		splitArr[0]TestData
+2021-09-22/21:57:24		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/22:00:11		Filename: TestData.xlsx
+2021-09-22/22:00:11		Read Excel File Started
+2021-09-22/22:00:12		Read Excel File
+2021-09-22/22:00:12		splitArr[0]TestData
+2021-09-22/22:00:12		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/22:16:16		Filename: TestData.xlsx
+2021-09-22/22:16:16		Read Excel File Started
+2021-09-22/22:16:17		Read Excel File
+2021-09-22/22:16:17		splitArr[0]TestData
+2021-09-22/22:16:17		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/23:41:26		Filename: TestData.xlsx
+2021-09-22/23:41:26		Read Excel File Started
+2021-09-22/23:41:26		Read Excel File
+2021-09-22/23:41:26		splitArr[0]TestData
+2021-09-22/23:41:26		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/23:49:34		Filename: TestData.xlsx
+2021-09-22/23:49:34		Read Excel File Started
+2021-09-22/23:49:35		Read Excel File
+2021-09-22/23:49:35		splitArr[0]TestData
+2021-09-22/23:49:35		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/23:56:50		Filename: TestData.xlsx
+2021-09-22/23:56:50		Read Excel File Started
+2021-09-22/23:56:51		Read Excel File
+2021-09-22/23:56:51		splitArr[0]TestData
+2021-09-22/23:56:51		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-22/23:58:20		Filename: TestData.xlsx
+2021-09-22/23:58:20		Read Excel File Started
+2021-09-22/23:58:21		Read Excel File
+2021-09-22/23:58:21		splitArr[0]TestData
+2021-09-22/23:58:21		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-23/00:00:25		Filename: TestData.xlsx
+2021-09-23/00:00:25		Read Excel File Started
+2021-09-23/00:00:26		Read Excel File
+2021-09-23/00:00:26		splitArr[0]TestData
+2021-09-23/00:00:26		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-23/00:53:27		Filename: TestData.xlsx
+2021-09-23/00:53:27		Read Excel File Started
+2021-09-23/00:53:28		Read Excel File
+2021-09-23/00:53:28		splitArr[0]TestData
+2021-09-23/00:53:28		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-23/11:29:02		Filename: TestData.xlsx
+2021-09-23/11:29:02		Read Excel File Started
+2021-09-23/11:29:03		Read Excel File
+2021-09-23/11:29:03		splitArr[0]TestData
+2021-09-23/11:29:03		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/15:16:40		Filename: TestData.xlsx
+2021-09-24/15:16:40		Read Excel File Started
+2021-09-24/15:16:42		Read Excel File
+2021-09-24/15:16:42		splitArr[0]TestData
+2021-09-24/15:16:42		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/15:20:49		Filename: TestData.xlsx
+2021-09-24/15:20:49		Read Excel File Started
+2021-09-24/15:20:52		Read Excel File
+2021-09-24/15:20:52		splitArr[0]TestData
+2021-09-24/15:20:52		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/15:26:14		Filename: TestData.xlsx
+2021-09-24/15:26:14		Read Excel File Started
+2021-09-24/15:26:17		Read Excel File
+2021-09-24/15:26:17		splitArr[0]TestData
+2021-09-24/15:26:17		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/15:44:23		Filename: TestData.xlsx
+2021-09-24/15:44:23		Read Excel File Started
+2021-09-24/15:44:25		Read Excel File
+2021-09-24/15:44:25		splitArr[0]TestData
+2021-09-24/15:44:25		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/16:18:48		Filename: TestData.xlsx
+2021-09-24/16:18:48		Read Excel File Started
+2021-09-24/16:18:50		Read Excel File
+2021-09-24/16:18:50		splitArr[0]TestData
+2021-09-24/16:18:50		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/16:30:30		Filename: TestData.xlsx
+2021-09-24/16:30:30		Read Excel File Started
+2021-09-24/16:30:32		Read Excel File
+2021-09-24/16:30:32		splitArr[0]TestData
+2021-09-24/16:30:32		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/17:05:52		Filename: TestData.xlsx
+2021-09-24/17:05:52		Read Excel File Started
+2021-09-24/17:05:54		Read Excel File
+2021-09-24/17:05:54		splitArr[0]TestData
+2021-09-24/17:05:54		File copied to the Prediction_Raw_files_validated/Good_Raw folder
+2021-09-24/17:08:40		Filename: TestData.xlsx
+2021-09-24/17:08:40		Read Excel File Started
+2021-09-24/17:08:42		Read Excel File
+2021-09-24/17:08:42		splitArr[0]TestData
+2021-09-24/17:08:42		File copied to the Prediction_Raw_files_validated/Good_Raw folder
