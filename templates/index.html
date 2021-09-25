@@ -59,6 +59,14 @@
 		  animation: spin 2s linear infinite;
 		}
 
+		.dataframe{
+		  width:100%;
+		}
+
+		.dataframe, .th{
+		  text-align:center;
+		}
+
 		/* Safari */
 		@-webkit-keyframes spin {
 		  0% { -webkit-transform: rotate(0deg); }
@@ -187,6 +195,12 @@
 						</div>
 						<div class="json-result">
 							{{results1}}
+						</div>
+						<div class="json-result" style="margin-top:20px;">
+							{% for table in tables %}
+
+            					{{ table|safe }}
+							{% endfor %}
 						</div>
 					</div>
 				</div>
