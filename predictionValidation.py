@@ -66,25 +66,36 @@ class predictValidation:
                     self.log_writer.log(self.file_object,
                             "Creating Prediction_Database and tables on the basis of given schema!!!")
 
-                    # create database with given name, if present open the connection! Create table with columns given in schema
-                    self.dbOperation.connectCassandra()
-                    self.dbOperation.createTable('Prediction', colNames)
-
-                    self.log_writer.log(self.file_object, "Table creation Completed!!")
-                    self.log_writer.log(self.file_object, "Insertion of Data into Table started!!!!")
-
-                    # insert csv files in the table
-                    self.dbOperation.insertDataIntoTable('Prediction', colNames)
-
-                    self.log_writer.log(self.file_object, "Insertion in Table completed!!!")
-                    self.log_writer.log(self.file_object, "Deleting Good Data Folder!!!")
-
-                    # Delete the good data folder after loading files in table
+                    """
+                    NOTE:
+                    I have tried to use the cassanra in the Heroku Cloud. When I deployed, and tried to predict
+                    it was throwing error that the path to the "cassandraconnection/secure-connect-test-zip" file
+                    is not found. Since the connection was not established to code did not run.
+                    
+                    SO REMOVING THE DATABASE SECTION FROM THE PREDICTION. DID NOT RECEIVE RIGHT SOLUTION FOR IT
+                    """
+                    self.raw_data.bypassDBOperation()
                     self.raw_data.deleteExistingGoodDataPredictionFolder()
-                    self.log_writer.log(self.file_object, "Good_Data folder deleted!!!")
 
-                    # export data in table to csvfile
-                    self.dbOperation.selectingDatafromtableintocsv('Prediction')
+                    # # create database with given name, if present open the connection! Create table with columns given in schema
+                    # self.dbOperation.connectCassandra()
+                    # self.dbOperation.createTable('Prediction', colNames)
+                    #
+                    # self.log_writer.log(self.file_object, "Table creation Completed!!")
+                    # self.log_writer.log(self.file_object, "Insertion of Data into Table started!!!!")
+                    #
+                    # # insert csv files in the table
+                    # self.dbOperation.insertDataIntoTable('Prediction', colNames)
+                    #
+                    # self.log_writer.log(self.file_object, "Insertion in Table completed!!!")
+                    # self.log_writer.log(self.file_object, "Deleting Good Data Folder!!!")
+                    #
+                    # # Delete the good data folder after loading files in table
+                    # self.raw_data.deleteExistingGoodDataPredictionFolder()
+                    # self.log_writer.log(self.file_object, "Good_Data folder deleted!!!")
+                    #
+                    # # export data in table to csvfile
+                    # self.dbOperation.selectingDatafromtableintocsv('Prediction')
 
                 else:
                     isValidationSuccess = False
