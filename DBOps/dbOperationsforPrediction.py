@@ -16,8 +16,9 @@ class DBOperationsPrediction:
     Version: 1.0
     Revisions: None
     """
+    
     def __init__(self):
-        self.cloud_config = {'secure_connect_bundle': "C:\\Users\\anupa\\Downloads\\secure-connect-test.zip"}
+        self.cloud_config = {'secure_connect_bundle': "cassandraconnection\\secure-connect-test.zip"}
         self.auth_provider = PlainTextAuthProvider('InGidfaCfiNMUlbTqiUBJoKd',
                                                     'lfsErHI40dg3xMF9HP4Jac_8zx8jcsEwLHt1hc7LOQ7NGnPcZkiXkADu.q_Mscoeg8JoYWbu9zs3YZ,cKWE6rJHK27MU9FnJM1,BSvYvvJm1pC18hpa,kmnQfEeSBY6Z')
         self.cluster = Cluster(cloud=self.cloud_config, auth_provider=self.auth_provider)
@@ -186,13 +187,15 @@ class DBOperationsPrediction:
             if input_file.is_file():
                 # file exists
                 self.logger.log(log_file, "File already existed!!!")
-            else:
-                rows = self.session.execute('select * from anupam.{tablename}'.format(tablename=tableName))
-                df = pd.DataFrame(rows.all())
-                for col in df.columns:
-                    df[col] = pd.to_numeric(df[col], errors='coerce')
-                df.to_csv(self.fileFromDb + self.fileName)
-                self.logger.log(log_file, "File exported successfully!!!")
+                # delete the old file
+                os.remove(input_file)
+            # else:
+            rows = self.session.execute('select * from anupam.{tablename}'.format(tablename=tableName))
+            df = pd.DataFrame(rows.all())
+            for col in df.columns:
+                df[col] = pd.to_numeric(df[col], errors='coerce')
+            df.to_csv(self.fileFromDb + self.fileName)
+            self.logger.log(log_file, "File exported successfully!!!")
             log_file.close()
             self.cluster.shutdown()
 
