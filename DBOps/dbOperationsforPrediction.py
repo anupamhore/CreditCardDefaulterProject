@@ -18,7 +18,8 @@ class DBOperationsPrediction:
     """
     
     def __init__(self):
-        self.cloud_config = {'secure_connect_bundle': "cassandraconnection\\secure-connect-test.zip"}
+#         self.cloud_config = {'secure_connect_bundle': "cassandraconnection\\secure-connect-test.zip"}
+        self.cloud_config={'secure_connect_bundle:"https://github.com/anupamhore/CreditCardDefaulterProject/blob/main/cassandraconnection/secure-connect-test.zip"}
         self.auth_provider = PlainTextAuthProvider('InGidfaCfiNMUlbTqiUBJoKd',
                                                     'lfsErHI40dg3xMF9HP4Jac_8zx8jcsEwLHt1hc7LOQ7NGnPcZkiXkADu.q_Mscoeg8JoYWbu9zs3YZ,cKWE6rJHK27MU9FnJM1,BSvYvvJm1pC18hpa,kmnQfEeSBY6Z')
         self.cluster = Cluster(cloud=self.cloud_config, auth_provider=self.auth_provider)
