@@ -3,7 +3,7 @@ from app_logging.logger import appLogger
 from RawDataValidation.testdatavalidation import TestDataValidation
 from DataTransform_Training.DataTransform import DataTransform
 from DBOps.dbOperationsforPrediction import DBOperationsPrediction
-
+from datetime import datetime
 class predictValidation:
     """
     Class Name: predictValidation
@@ -22,7 +22,7 @@ class predictValidation:
     def __init__(self,file):
         self.cwd = os.getcwd()
         self.file_object = open("Prediction_Logs/Prediction_Main_Log.txt", 'a+')
-#         self.file_object = open(self.cwd + 'Prediction_Main_Log.txt', 'a+')
+        # self.file_object = open(self.cwd + 'Prediction_Main_Log.txt', 'a+')
         self.log_writer = appLogger()
         self.raw_data = TestDataValidation(file)
         self.dataTransform = DataTransform()
@@ -30,6 +30,7 @@ class predictValidation:
 
     def startValidation(self):
 
+        isValidationSuccess = True;
         try:
             self.log_writer.log(self.file_object, 'Start of Validation on files for testing')
 
@@ -43,44 +44,62 @@ class predictValidation:
             self.raw_data.putRawDatainTestFolder()
 
             # validate the number of columns is same as metioned in the schema
-            self.raw_data.validateColumnLength(noofcolumns)
+            isSameNoOfCols = self.raw_data.validateColumnLength(noofcolumns)
 
-            # Check if any missing values present in any of the columns of the dataset
-            self.raw_data.validateMissingValuesInWholeColumn()
+            if isSameNoOfCols:
 
-            self.log_writer.log(self.file_object, "Raw Data Validation Complete!!")
+                isSameCols =  self.raw_data.validateColumns(colNames)
 
-            self.log_writer.log(self.file_object, "Starting Data Transformation!!")
+                if isSameCols:
+                    # Check if any missing values present in any of the columns of the dataset
+                    self.raw_data.validateMissingValuesInWholeColumn()
 
-            # replace blanks in the csv file as NULL
-            self.dataTransform.replaceMissingWithNull_TestData()
+                    self.log_writer.log(self.file_object, "Raw Data Validation Complete!!")
 
-            self.log_writer.log(self.file_object, "Data Transformation Completed!!!")
+                    self.log_writer.log(self.file_object, "Starting Data Transformation!!")
 
-            self.log_writer.log(self.file_object,
+                    # replace blanks in the csv file as NULL
+                    self.dataTransform.replaceMissingWithNull_TestData()
+
+                    self.log_writer.log(self.file_object, "Data Transformation Completed!!!")
+
+                    self.log_writer.log(self.file_object,
                             "Creating Prediction_Database and tables on the basis of given schema!!!")
 
-            # create database with given name, if present open the connection! Create table with columns given in schema
-            self.dbOperation.connectCassandra()
-            self.dbOperation.createTable('Prediction', colNames)
+                    # create database with given name, if present open the connection! Create table with columns given in schema
+                    self.dbOperation.connectCassandra()
+                    self.dbOperation.createTable('Prediction', colNames)
 
-            self.log_writer.log(self.file_object, "Table creation Completed!!")
-            self.log_writer.log(self.file_object, "Insertion of Data into Table started!!!!")
+                    self.log_writer.log(self.file_object, "Table creation Completed!!")
+                    self.log_writer.log(self.file_object, "Insertion of Data into Table started!!!!")
 
-            # insert csv files in the table
-            self.dbOperation.insertDataIntoTable('Prediction', colNames)
+                    # insert csv files in the table
+                    self.dbOperation.insertDataIntoTable('Prediction', colNames)
 
-            self.log_writer.log(self.file_object, "Insertion in Table completed!!!")
-            self.log_writer.log(self.file_object, "Deleting Good Data Folder!!!")
+                    self.log_writer.log(self.file_object, "Insertion in Table completed!!!")
+                    self.log_writer.log(self.file_object, "Deleting Good Data Folder!!!")
 
-            # Delete the good data folder after loading files in table
-            self.raw_data.deleteExistingGoodDataPredictionFolder()
-            self.log_writer.log(self.file_object, "Good_Data folder deleted!!!")
+                    # Delete the good data folder after loading files in table
+                    self.raw_data.deleteExistingGoodDataPredictionFolder()
+                    self.log_writer.log(self.file_object, "Good_Data folder deleted!!!")
 
-            # export data in table to csvfile
-            self.dbOperation.selectingDatafromtableintocsv('Prediction')
+                    # export data in table to csvfile
+                    self.dbOperation.selectingDatafromtableintocsv('Prediction')
+
+                else:
+                    isValidationSuccess = False
+                    self.log_writer.log(self.file_object, 'Column Names mismatch!!!')
+            else:
+                isValidationSuccess = False
+                self.log_writer.log(self.file_object, 'Column mismatch!!!')
+
+            self.file_object.close()
+            endTime = datetime.now().replace(microsecond=0)
+            return isValidationSuccess, endTime
+
 
         except Exception as e:
+            self.file_object.close()
             raise Exception(e)
 
 
