@@ -39,7 +39,8 @@ class PredictModel:
                 self.df = preprocessor.impute_missingValues(self.df, missingValueColumns)
 
             #initial columns to drop
-            cols_to_drop =['Unnamed: 0']
+            # cols_to_drop =['Unnamed: 0']
+            cols_to_drop = 'Unnamed: 0'
             X = preprocessor.dropVariables(self.df,cols_to_drop,1,True)
 
             # perform feature selection
