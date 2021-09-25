@@ -70,20 +70,20 @@ class PredictModel:
                 cluster_data = cluster_data.drop(['clusters','id'], axis = 1)
                 model_name = file_op.find_correct_model_file(i)
                 model = file_op.load_model(model_name)
+                finalDF = pd.DataFrame()
                 if model_name.find("Extreme") != -1:
                     model1 = file_op.load_model('Naive Bayes0')
                     result = list(model1.predict(cluster_data))
                     result = pd.DataFrame(list(zip(customer_id_list,result)),columns=['ID','Prediction'])
-
-                    result.to_csv("Prediction_Output_File/Predictions.csv", header=True,
-                                  mode='a+')  # appends result to prediction file
+                    finalDF = pd.concat([finalDF,result],axis=1)
 
                 else:
                     result = list(model.predict(cluster_data))
                     result = pd.DataFrame(list(zip(customer_id_list,result)),columns=['ID','Prediction'])
 
-                    result.to_csv("Prediction_Output_File/Predictions.csv", header=True,
-                                  mode='a+')  # appends result to prediction file
+                    finalDF = pd.concat([finalDF, result], axis=1)
+
+            finalDF.to_csv("Prediction_Output_File/Predictions.csv", header=True)
 
             desktop = os.path.join(os.path.expanduser("~"), "Desktop")
             path = os.path.join(desktop, "Predictions.csv")
