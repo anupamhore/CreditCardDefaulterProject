@@ -7,7 +7,8 @@ from predictionValidation import predictValidation
 from trainingModel import TrainModel
 from predictionModel import PredictModel
 from datetime import datetime
-
+import json
+import pandas as pd
 
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
@@ -41,12 +42,16 @@ def predictRouteClient():
                         if isValidationSuccess:
 
                             pred_model = PredictModel()
-                            path, endTime = pred_model.predictTestData()
+                            endTime = pred_model.predictTestData()
 
                             totalDiff = endTime - startTime
 
+                            df = pd.read_csv('Prediction_Output_File/Predictions.csv')
+                            df.drop('Unnamed: 0',axis=1,inplace=True)
+                            html = df.to_html()
 
-                            return render_template('index.html',results="Prediction File created at: %s"%path,results1="Total Execution Time:%s"%totalDiff)
+
+                            return render_template('index.html',results="See the predictions as below:" ,results1="Total Execution Time:%s" % totalDiff, tables=[html], titles=df.columns.values)
                         else:
                             totalDiff1 = endTime1 - startTime
                             return render_template('index.html', results="The test file should follow the same format as the one mentioned in the Original Source of Data below",
@@ -91,6 +96,6 @@ def trainRouteClient():
 
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True)
 
 
