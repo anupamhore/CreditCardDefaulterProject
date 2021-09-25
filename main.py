@@ -35,17 +35,22 @@ def predictRouteClient():
                         startTime = datetime.now().replace(microsecond=0)
 
                         pred_val_obj = predictValidation(file)
-                        pred_val_obj.startValidation()
-
-                        pred_model = PredictModel()
-                        path,endTime = pred_model.predictTestData()
-
-                        totalDiff = endTime - startTime
+                        isValidationSuccess, endTime1 = pred_val_obj.startValidation()
 
 
-                return render_template('index.html',
-                                       results="Prediction File created at: %s"%path,
-                                       results1="Total Execution Time:%s"%totalDiff)
+                        if isValidationSuccess:
+
+                            pred_model = PredictModel()
+                            path, endTime = pred_model.predictTestData()
+
+                            totalDiff = endTime - startTime
+
+
+                            return render_template('index.html',results="Prediction File created at: %s"%path,results1="Total Execution Time:%s"%totalDiff)
+                        else:
+                            totalDiff1 = endTime1 - startTime
+                            return render_template('index.html', results="The test file should follow the same format as the one mentioned in the Original Source of Data below",
+                                                   results1="Total Execution Time:%s" % totalDiff1)
 
             except Exception as e:
                 print("Error: %s"%Exception(e))
