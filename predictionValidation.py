@@ -21,7 +21,8 @@ class predictValidation:
 
     def __init__(self,file):
         self.cwd = os.getcwd()
-        self.file_object = open(self.cwd + 'Prediction_Main_Log.txt', 'a+')
+        self.file_object = open("Prediction_Logs/Prediction_Main_Log.txt", 'a+')
+#         self.file_object = open(self.cwd + 'Prediction_Main_Log.txt', 'a+')
         self.log_writer = appLogger()
         self.raw_data = TestDataValidation(file)
         self.dataTransform = DataTransform()
