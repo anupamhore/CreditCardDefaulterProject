@@ -26,7 +26,7 @@ class predictValidation:
         self.log_writer = appLogger()
         self.raw_data = TestDataValidation(file)
         self.dataTransform = DataTransform()
-        self.dbOperation = DBOperationsPrediction()
+#         self.dbOperation = DBOperationsPrediction()
 
     def startValidation(self):
 
