@@ -375,3 +375,23 @@ class TestDataValidation:
             f.close()
             raise e
         f.close()
+
+    def bypassDBOperation(self):
+        """
+        Method Name: bypassDBOperation
+        Description: This method copy the files from the Prediction_Raw_files_validated/Good_Raw folder
+                     to Prediction_FileFromDB folder as bypass to the DB Operations
+
+        Written By: Anupam Hore
+        Version: 1.0
+        Revisions: None
+        """
+        try:
+            filename = secure_filename(self.fileObj.filename)
+            splitArr = filename.split(".")
+            df = pd.read_csv("Prediction_Raw_files_validated/Good_Raw/" + splitArr[0] + '.csv')
+            df.columns = df.columns.str.lower()
+            df.to_csv("Prediction_FileFromDB/" + "InputFile.csv", index=None, header=True)
+
+        except Exception as e:
+            raise Exception(e)
