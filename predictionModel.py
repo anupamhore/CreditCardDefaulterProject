@@ -86,21 +86,23 @@ class PredictModel:
 
             finalDF.to_csv("Prediction_Output_File/Predictions.csv", header=True)
 
-#             desktop = os.path.join(os.path.expanduser("~"), "Desktop")
-            desktop = os.path.normpath(os.path.expanduser("~/Desktop"))
-            path = os.path.join(desktop, "Predictions.csv")
-            self.logger.log(self.file_object, 'End Path: %s'%path)
+            # desktop = os.path.join(os.path.expanduser("~"), "Desktop")
+            # path = os.path.join(desktop, "Predictions.csv")
+            # self.logger.log(self.file_object, 'End Path: %s'%path)
+            #
+            # shutil.copy("Prediction_Output_File/Predictions.csv", path)
 
-            shutil.copy("Prediction_Output_File/Predictions.csv", path)
 
             self.logger.log(self.file_object, 'End of Prediction')
+            endTime = datetime.now().replace(microsecond=0)
+
+            return endTime
 
         except Exception as e:
             self.logger.log(self.file_object, 'Error occurred while running the prediction!! Error:: %s' % e)
             raise e
+        # , finalDF.head(30).to_json(orient="records")
 
-        endTime = datetime.now().replace(microsecond=0)
-        return path,endTime
 
 
 
