@@ -41,7 +41,7 @@ class PredictModel:
             #initial columns to drop
             # cols_to_drop =['Unnamed: 0']
             cols_to_drop = 'Unnamed: 0'
-            X = preprocessor.dropVariables(self.df,cols_to_drop,1,True)
+            X = preprocessor.dropVariablesTest(self.df,cols_to_drop,1,True)
 
             # perform feature selection
             featureSelection = FeatureSelection(self.logger)
