@@ -8,6 +8,7 @@ import pandas as pd
 from os import listdir
 from werkzeug.utils import secure_filename
 from app_logging.logger import appLogger
+import functools
 
 class TestDataValidation:
     """
@@ -217,6 +218,64 @@ class TestDataValidation:
             f.close()
             raise e
 
+    def validateColumns(self,schemacols):
+        """
+            Method Name: validateColumns
+            Description: This function validates the columns in the csv files.
+                         It should be same as given in the schema file.
+                         If not same, file is not suitable for processing and thus will be moved to Bad Raw Data folder.
+                         If the column  matches, file is kept in Good Raw Data for processing.
+
+            Output: None
+            On Failure: Exception
+
+            Written By: Anupam Hore
+            Version: 1.0
+            Revisions: None
+        """
+        try:
+            sameCols = False
+            f = open("Prediction_Logs/columnValidationLog.txt",'a+')
+            self.logger.log(f,'Match Column Validation Started!!')
+            for file in listdir('Prediction_Raw_files_validated/Good_Raw/'):
+                filename = secure_filename(self.fileObj.filename)
+                splitArr = filename.split(".")
+                filename = splitArr[0] + ".csv"
+
+                csv = pd.read_csv("Prediction_Raw_files_validated/Good_Raw/" + filename)
+                cols = list(csv.columns)
+                compareCols = list(schemacols.keys())
+                if functools.reduce(lambda x, y: x and y, map(lambda p, q: p == q, cols, compareCols), True):
+                    if len(cols) == len(compareCols):
+                        sameCols = True
+                    else:
+                        sameCols = False
+                        shutil.move("Prediction_Raw_files_validated/Good_Raw/" + file,
+                                    "Prediction_Raw_files_validated/Bad_Raw")
+                        self.logger.log(f,
+                                        'Invalid column length for the file. File moved to Bad Raw Folder :: %s' % file)
+                else:
+                    sameCols = False
+                    shutil.move("Prediction_Raw_files_validated/Good_Raw/" + file, "Prediction_Raw_files_validated/Bad_Raw")
+                    self.logger.log(f, 'Invalid column length for the file. File moved to Bad Raw Folder :: %s' %file)
+
+            self.logger.log(f, "Column Match Validation Completed!!!")
+
+
+        except OSError as s:
+            f = open("Prediction_Logs/columnValidationLog.txt",'a+')
+            self.logger.log(f, "Error Occurred while moving the file :: %s" %s)
+            f.close()
+            raise OSError
+
+        except Exception as e:
+            f = open("Prediction_Logs/columnValidationLog.txt",'a+')
+            self.logger.log(f, "Error Occurred!!  %s" %e)
+            f.close()
+            raise e
+        f.close()
+        return sameCols
+
     def validateColumnLength(self,noOfCols):
         """
             Method Name: validateColumnLength
@@ -233,6 +292,7 @@ class TestDataValidation:
             Revisions: None
         """
         try:
+            sameCols = False
             f = open("Prediction_Logs/columnValidationLog.txt",'a+')
             self.logger.log(f,'Column Length Validation Started!!')
             for file in listdir('Prediction_Raw_files_validated/Good_Raw/'):
@@ -244,11 +304,13 @@ class TestDataValidation:
 
                 if csv.shape[1] == noOfCols:
                     print('Same columns!!!!')
+                    sameCols = True
                 else:
                     shutil.move("Prediction_Raw_files_validated/Good_Raw/" + file, "Prediction_Raw_files_validated/Bad_Raw")
                     self.logger.log(f, 'Invalid column length for the file. File moved to Bad Raw Folder :: %s' %file)
 
             self.logger.log(f, "Column Length Validation Completed!!!")
+
 
         except OSError as s:
             f = open("Prediction_Logs/columnValidationLog.txt",'a+')
@@ -262,6 +324,7 @@ class TestDataValidation:
             f.close()
             raise e
         f.close()
+        return sameCols
 
     def validateMissingValuesInWholeColumn(self):
         """
