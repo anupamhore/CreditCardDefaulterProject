@@ -86,7 +86,8 @@ class PredictModel:
 
             finalDF.to_csv("Prediction_Output_File/Predictions.csv", header=True)
 
-            desktop = os.path.join(os.path.expanduser("~"), "Desktop")
+#             desktop = os.path.join(os.path.expanduser("~"), "Desktop")
+            desktop = os.path.normpath(os.path.expanduser("~/Desktop"))
             path = os.path.join(desktop, "Predictions.csv")
             self.logger.log(self.file_object, 'End Path: %s'%path)
 
