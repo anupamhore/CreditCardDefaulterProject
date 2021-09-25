@@ -135,6 +135,36 @@ class Preprocessor:
             raise Exception(e)
 
 
+    def dropVariablesTest(self,df,cols,axis,inplace):
+        """
+         Method Name: dropVariablesTest
+         Description: This function drops the respective cols from the dataframe
+         Parameter: df(the dataframe), cols ( the columns), axis (0,1), inplace(True,False)
+         Output: Dataset with dropped variables
+         On Failure: Exception
+
+         Written By: Anupam Hore
+         Version: 1.0
+         Revisions: None
+
+         """
+        self.logger.log(self.file_object, "dropVariables Started!!!")
+        try:
+            list_of_cols = list(df.columns)
+            isPresent = False
+            for feature in list_of_cols:
+                if feature == cols:
+                    isPresent = True
+                    break
+            if isPresent:
+                df.drop(cols, axis=axis, inplace=inplace)
+            self.logger.log(self.file_object, "dropVariables Completed!!!")
+            return df
+
+        except Exception as e:
+            self.logger.log(self.file_object, "Error in dropping variables due to %s" % Exception(e))
+            raise Exception(e)
+
     def dropVariables(self,df,cols,axis,inplace):
         """
         Method Name: dropVariables
